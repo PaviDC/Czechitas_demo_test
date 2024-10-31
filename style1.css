@@ -1,13 +1,12 @@
 
-h1{color: blueviolet;
+h1{color: blueviolet; backgroundcolor: yellow;
 
 }
-h2 {color: chocolate;
+h2 {color: chocolate; backgroundcolor: light blue;
 
 }
 
-h3 {color: darkblue;
-
+h3 {color: darkblue; backgroundcolor: white;
 
 } 
 
